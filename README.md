@@ -1,10 +1,12 @@
 # ChatAI
 
-ChatAI is an open-source AI platform that focuses on making AI accessible to everyone. It provides an easy-to-use platform with chat capabilities, allowing users to interact with AI models effortlessly. Inspired from ChatGPT, GPT4All and other AI initiatives.
+ChatAI is an open-source AI platform that focuses on making AI accessible to everyone. It provides an easy-to-use platform with chat capabilities, allowing users to interact with AI models effortlessly. Inspired from ChatGPT, GPT4All and Langchain and other AI initiatives.
 
 ## Features
 
 - **Inclusive Chat**: Engage in interactive conversations with AI models in a user-friendly manner.
+- **Data privacy**: No need to uplaod data to any server, interact with your data in local.
+- **Connectors**: Ability to connect with different data sources and integration providers.
 - **Accessibility**: Provide access to AI technology for users of all backgrounds and skill levels.
 - **Open-Source**: Contribute to the project, customize it, and help improve the AI platform for the community.
 
